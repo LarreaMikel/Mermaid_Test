@@ -1,5 +1,7 @@
 # Mermaid_Test
-Testing Mermaid syntax
+Testing Mermaid syntax 
+## Link
+https://mermaid-js.github.io/mermaid/#/
 
 # Basic test
 ## Link
